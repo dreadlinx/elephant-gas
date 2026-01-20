@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Background Circle -->
+  <circle cx="50" cy="50" r="48" fill="#0066a1"/>
+  
+  <!-- Flame Icon -->
+  <path d="M50 25 C45 35, 40 40, 40 50 C40 60, 45 65, 50 65 C55 65, 60 60, 60 50 C60 40, 55 35, 50 25 Z" fill="#ff6b35"/>
+  <path d="M50 30 C47 37, 45 42, 45 48 C45 54, 47 57, 50 57 C53 57, 55 54, 55 48 C55 42, 53 37, 50 30 Z" fill="#ffffff"/>
+  
+  <!-- Gas Cylinder Outline -->
+  <rect x="35" y="55" width="30" height="35" rx="3" fill="none" stroke="#ffffff" stroke-width="2.5"/>
+  <rect x="45" y="50" width="10" height="5" fill="#ffffff"/>
+  <circle cx="50" cy="52" r="1.5" fill="#0066a1"/>
+</svg>
